@@ -1,10 +1,6 @@
 {
   "appenders": [
     {
-      "type": "console",
-      "replaceConsole": true
-    },
-    {
       "type": "file",
       "filename": "./logs/debug.log",
       "maxLogSize": 52428800,
